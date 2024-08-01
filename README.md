@@ -1,1 +1,1 @@
-# amazon clone app
+# amazon clone website
